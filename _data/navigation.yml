@@ -1,37 +1,25 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Facilitating Research
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Digital Research Infrastructure"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Career Pathways"
     url: "/design/grid/"
   - title: "Typography"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Developing techincal skills"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Shaping DRI"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Programme Management"
   url: "/headers/"
   side: left
   dropdown:
