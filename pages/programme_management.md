@@ -14,18 +14,13 @@ image:
     title: gallery-example-3.jpg
     caption_url: http://unsplash.com
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
-<!--more-->
+ ### FP7 Marie Curie Initial Training Network
+Bio-Orthogonal Chemo-Specific Ligation [(BioChemLig)](https://cordis.europa.eu/article/id/169916-bioorthogonal-chemistry-to-help-uncover-protein-functions) project trained PhD students and early career researchers and developed new, environmentally friendly and versatile chemical ligation methods. The Initial Training Network (€3.3M) was led by University of Strasbourg and involved 7 other partners across the EU. 
 
-~~~
-show_meta: true
-~~~
-
-If you don't want to show metadata, it's simple again:
-
-~~~
-show_meta: false
-~~~
+### FP7 Health Programme  
+[EUCLIDS](https://cordis.europa.eu/project/id/279185/reporting) consortium studied the genetic basis of meningococcal and other life threatening bacterial infections of childhood). XX partners in the consortium brought together an international team of clinicians and scientists, and provided training to many young doctors and scientist across Europe and West Africa. The biobank of samples collected, and extensive genomic data will continue to be used for collaborative research for many years to come.
+ 
+### Knowledge Transfer Partnership
 
 
 ## Other Post Formats
