@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: Facilitating Research
-  url: "/getting-started/"
-  side: left
-
 - title: "Digital Research Infrastructure"
   url: "/design/"
   side: left
@@ -18,9 +14,16 @@
     url: "/design/page/"
 
 
-- title: "Programme Management"
+- title: "Enabling Research"
   url: "/programme_management"
   side: left
+  dropdown:
+  - title: "Programme Management"
+    url: "/programme_management/"
+ - title: "Fostering interdiciplinarity"
+    url: "/interdiciplinarity/"
+ - title: "developing opportunties"
+    url: 'developing opportunties"
 
 - title: Blog
   url: "/blog/"
@@ -33,6 +36,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "About"
+  url: "/about/"
   side: right
