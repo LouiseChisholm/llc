@@ -1,22 +1,17 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/louisechisholm
   class: icon-github
-  title: Code und mehr...
-
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: Code one day maybe
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/lou_chisholm
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "my tweets"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Twitter
+  url: http://twitter.com/UK_SKARC
+  class: icon-twitter
+  title: "updates on the UK SKA Regional Centre"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
