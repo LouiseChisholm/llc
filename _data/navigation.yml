@@ -12,7 +12,7 @@
   dropdown:
   - title: "Shaping DRI"
     url: "/design/post-left-sidebar/"
-    title: "Supporting New Career Pathways"
+  - title: "Supporting New Career Pathways"
     url: "/design/grid/"
   - title: "Developing techincal skills"
     url: "/design/page/"
