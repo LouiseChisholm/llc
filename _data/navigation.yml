@@ -3,7 +3,7 @@
   side: left
 
 - title: "Digital Research Infrastructure"
-  url: "/design/"
+  url: "/dri/"
   side: left
   dropdown:
   - title: "Shaping DRI"
