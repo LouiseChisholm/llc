@@ -10,14 +10,13 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Career Pathways"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Developing techincal skills"
-    url: "/design/page/"
   - title: "Shaping DRI"
     url: "/design/post-left-sidebar/"
+    title: "Supporting New Career Pathways"
+    url: "/design/grid/"
+  - title: "Developing techincal skills"
+    url: "/design/page/"
+
 
 - title: "Programme Management"
   url: "/headers/"
