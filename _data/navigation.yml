@@ -13,9 +13,8 @@
   - title: "Developing techincal skills"
     url: "/design/page/"
 
-
 - title: "Enabling Research"
-  url: "/programme_management"
+  url: "/programme_management/"
   side: left
   dropdown:
   - title: "Programme Management"
