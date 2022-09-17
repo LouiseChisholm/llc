@@ -4,6 +4,7 @@ sidebar: left
 subheadline: Projects and Programmes
 title:  "Project/Programme Management Portfolio"
 teaser: "what should go here?"
+permalink: "/programme_management/"
 breadcrumb: true
 tags:
     - portfolio
