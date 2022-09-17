@@ -10,7 +10,7 @@ tags:
     - background color
     - header
 image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+   thumb: "GPU shot etched 3 by Fritzchens Fritz.jpg"
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
     caption: This is a caption for the header image with link
