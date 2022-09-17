@@ -9,12 +9,12 @@
   - title: "Shaping DRI"
     url: "/design/post-left-sidebar/"
   - title: "Supporting New Career Pathways"
-    url: "/design/grid/"
+    url: "/career_pathways/"
   - title: "Developing techincal skills"
-    url: "/design/page/"
+    url: "/skill_development/"
 
 - title: "Enabling Research"
-  url: "/programme_management/"
+  url: "/enabling_research/"
   side: left
   dropdown:
   - title: "Programme Management"
