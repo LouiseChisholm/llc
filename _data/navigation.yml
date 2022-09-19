@@ -24,16 +24,9 @@
  - title: "developing opportunties"
     url: 'developing opportunties"
 
-- title: "Blog"
-  url: "/blog/"
+- title: "Useful Links"
+  url: "/links/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
 
 - title: "About"
   url: "/about/"
