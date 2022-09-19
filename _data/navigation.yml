@@ -1,4 +1,4 @@
-- title: Home
+- title: "Home"
   url: "/"
   side: left
 
@@ -24,7 +24,7 @@
  - title: "developing opportunties"
     url: 'developing opportunties"
 
-- title: Blog
+- title: "Blog"
   url: "/blog/"
   side: left
   dropdown:
