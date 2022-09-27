@@ -19,10 +19,10 @@ The Festival of Code (14 - 19 June 2021) celebrated the contribution software an
 
 ## Monday 14th June: Celebrating Communities
 ### Funder panel: Challenges & opportunties of funding research software
-Software is used across research cycle. Join this panel discussion to learn about funding opportunities which support research software and funders' perspectives regarding the challenges of funding research software. Slides:
-EPSRC: [Challenges & opportunities of funding research software](https://www.ucl.ac.uk/research/sites/research/files/challenges_opportunities_of_funding_research_software.pdf) 
-Sage Publishing: [Supporting tools for Social Sciences](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ucl_codefest_2021.pdf) 
-Wellcome Trust: [Challenges and opportunities for funding computational research](https://zenodo.org/record/4943834#.YzNPC6TMI2x)
+Software is used across research cycle. Join this panel discussion to learn about funding opportunities which support research software and funders' perspectives regarding the challenges of funding research software.  
+* EPSRC: [Challenges & opportunities of funding research software](https://www.ucl.ac.uk/research/sites/research/files/challenges_opportunities_of_funding_research_software.pdf) 
+* Sage Publishing: [Supporting tools for Social Sciences](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ucl_codefest_2021.pdf) 
+* Wellcome Trust: [Challenges and opportunities for funding computational research](https://zenodo.org/record/4943834#.YzNPC6TMI2x)
 
 ### Coding culture: the cultural values of five coding communities
 This reflective panel discussion will explore the histories, the cultural differences, and the shared values of five coding communities - Python, R, Julia, Ruby, & Fortran. Join us to hear from experienced programmers on how they see the programming community they belong to. Organised by Gui Heurich (UCL Anthropology) and he is working at the intersection coding and anthropology. 
@@ -31,7 +31,6 @@ This reflective panel discussion will explore the histories, the cultural differ
 UCL was the first university, in 2012, to create a professional dedicated research software development group. Since then, the UCL Research Software Development Group has grown and expanded its services it provides to UCL's researchers. Join us to hear the story [you tube](https://www.youtube.com/playlist?list=PLkJC1q4VioxiezOu7-cr3434r-6Z7BE5c) behind some of the researchers that have been supported by this group,  find out about the specialised services we offer to improve your research, and learn more about UCL's new Centre for Advanced Research Computing from our new director James Hetherington. Organised by the Research Software Development Group (UCL Advanced Research Computing).
 
 ## Tuesday 15th June: Exploring Open Science
-
 ### An Introduction to Open Science Practices: From Code to Data and Beyond
 Find out about the benefits of open science and explore practices of code and data sharing, replications, as well as open access publishing. Learn about tools/platforms which can help you to embed open science in your work flow. Organised by Dr Sandy Schumann (UCL Department of Security and Crime Science) | UCL JDI Open | @JDI_Open
 
