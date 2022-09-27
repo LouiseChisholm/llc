@@ -15,6 +15,10 @@ Using preaward/project managment/ faciliationg and coordination skills.
 
 CV..
 
+--> other people understand better role of research engagement/PRISM. 
+--> Resources for others. 
+--> learn how to do a Jekyll website
+
 
 ## Useful links
 ### Career Pathways
