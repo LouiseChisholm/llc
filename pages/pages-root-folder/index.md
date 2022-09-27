@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Skills & Good Practice"
   url: 'https://www.kcl.ac.uk/'
-  text: 'Initiatives that provide opportunities for researchers to develop data and software skills they need to harness innovations in research data, software and research computing'
+  text: 'Initiatives that provide opportunities for researchers to gain experience and develop their technical skills to harness innovations in research data, software and research computing'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Career Pathways"
