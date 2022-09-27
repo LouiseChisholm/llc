@@ -41,4 +41,14 @@ Join us to discuss the benefits and barriers to code sharing for Early Career Re
 ### Use of Docker for Efficient Software Development & Reproducible Research
 A valid piece of code can produce different results based on its computational environment, libraries and other dependences. Join this interactive workshop to learn how to use Docker to overcome these issues and improve the reproducibility of your research.    Organised by Mian Ahmad | UCL Computer Science Technical Support Group | Wellcome / EPSRC Centre for Interventional and Surgical Sciences
 
+## Wednesday 16th June: Driving impact from research software
+Marina shares her 14 years of experience in supporting UCL academics achieve measurable impact from their software, whether for commercial or non-commercial distributions, open source or closed source, and from departments as diverse as chemistry, architecture, medical computing (and more). Organised by Marina Santilli (UCL Business)
+
+## Thursday 17th June: R Project showcase
+We celebrated UCL masters student and early-career researcher projects that use R. We launched the showcase with a keynote speech by Dr Kirsten McMillan, a Senior Researcher at Dogs Trust, focusing on canine ecology and population management. Congratulations to the UCL R Showcase winners: Indigo Brownhall, Naomi Launders, & Inga Usher Organised by Ellen Webborn (UCL Energy Institute); Scott Orr (Institute for Sustainable Heritage | UCL R User Group | @EllenWebborn 
+
+## Friday 18th June: UCL Bioimage Analysis Collaborative Hackday
+This hackday brings together the community and we will work in self-organising small groups on a bioimage-analysis-related software project for a day. Join to meet new people and develop ideas together.in self-organising small groups.  All levels of expereince, researchers, academics, PhD students, and professional service staff are all welcome. 
+Submit your idea for a project when you sign up and you will be given the opportunity to pitch it to other participants on the day. If you get enough people interested, work with them on your idea for the day! Organised by Giulia Paci (LMCB) | Alessandro Felder (RITS) | Pablo Vicente Munuera (LMCB) | Jonas Hartmann (UCL Biosciences) |  Adam Tyson (Sainsbury Wellcome Centre) | Haroon Chughtai (RITS) | UCL BioImage Analysis Interest Group
+
 {% include list-posts tag='header' %}
