@@ -2,13 +2,9 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
 - title: "DRI Ecosystems"
   url: "/dri_ecosystems/"
-  side: left
+  side: right
   dropdown:
   - title: "Building Capacity"
     url: "/building-capacity/"
@@ -17,7 +13,7 @@
 
 - title: "Enabling Research"
   url: "/enabling-research/"
-  side: left
+  side: right
   dropdown:
   - title: "Proposal Development"
     url: "/proposal-development/"
@@ -26,10 +22,6 @@
   - title: "Knowledge Exchange"
     url: "/knowledge-exchange/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
+- title: "About"
+  url: "/about/"
   side: right
