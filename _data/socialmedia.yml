@@ -13,9 +13,9 @@
   class: icon-twitter
   title: "updates on the UK SKA Regional Centre"
   
-- name: Orcihid
+- name: Orchid
   url: https://orcid.org/0000-0001-9027-2808
-  class: icon-ochid
+  class: icon-orchid
   title: Orchid
 
 # - name: Facebook
