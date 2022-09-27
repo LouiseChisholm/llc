@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline:  "UCL Festival of Code"
-title:  "No Header"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows <em>no</em> header at all. Just the navigation."
+subheadline:  "Headers With Style"
+title:  "No Header but Article Image"
+teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
 categories:
     - design
 tags:
@@ -10,12 +10,20 @@ tags:
     - background color
     - header
 header: no
+image:
+    title: unsplash_eagle.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
 ---
-*Silence is beautiful.* Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: *Feeling Responsive* got you covered. Just say *no* like this:
+First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
 <!--more-->
 
 ~~~
 header: no
+image:
+    title: unsplash_eagle.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
 ~~~
 
 
