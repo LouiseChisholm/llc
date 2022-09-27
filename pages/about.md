@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-Website --> 
+## Aim of website
 collection of activities /portfolio  of things I get up to in digital research infrastructure. 
 
 Using preaward/project managment/ faciliationg and coordination skills. 
