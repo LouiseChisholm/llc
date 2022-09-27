@@ -37,10 +37,10 @@ UCL was the first university, in 2012, to create a professional dedicated resear
 
 ## Tuesday 15th June: Exploring Open Science
 ### An Introduction to Open Science Practices: From Code to Data and Beyond
-Find out about the benefits of open science and explore practices of code and data sharing, replications, as well as open access publishing. Learn about tools/platforms which can help you to embed open science in your work flow. Organised by Dr Sandy Schumann (UCL Department of Security and Crime Science) | UCL JDI Open | @JDI_Open
+Find out about the benefits of open science and explore practices of code and data sharing, replications, as well as open access publishing. Learn about tools/platforms which can help you to embed open science in your work flow. Organised by Dr Sandy Schumann (UCL Department of Security and Crime Science) | UCL JDI Open | @JDI_Open | [Slides](https://liveuclac-my.sharepoint.com/:p:/g/personal/uctcssc_ucl_ac_uk/EUKXjZwRCWhOiw-2TRbnNbwBZxytccvmQqtqSMrWW5ja5Q?rtime=5XdeOMag2kg)
 
 ### Code sharing as an Early Career Researcher: the good, the bad and the ugly
-Join us to discuss the benefits and barriers to code sharing for Early Career Researchers, get practical advice about how to do it (e.g. via GitHub), and explore ways it can be encouraged at UCL. Organised by Louise McGrath-Lone (Institute of Health Informatics), Ania Zylbersztejn, Rachel Pearson ( bothGOS Institute of Child Health) | UCL Code Club | @UCL_CodeClub
+Join us to discuss the benefits and barriers to code sharing for Early Career Researchers, get practical advice about how to do it (e.g. via GitHub), and explore ways it can be encouraged at UCL. Organised by Louise McGrath-Lone (Institute of Health Informatics), Ania Zylbersztejn, Rachel Pearson ( bothGOS Institute of Child Health) | UCL Code Club | @UCL_CodeClub | [Blog](https://blogs.ucl.ac.uk/open-access/2021/09/14/code-sharing-as-an-ecr/) | [Slides](https://github.com/UCL-CHIG/Festival-of-Code-2021/blob/main/Slides%20for%20attendees%20-%20UCL%20FoC%202021%20Code%20Sharing.pdf)
 
 ### Use of Docker for Efficient Software Development & Reproducible Research
 A valid piece of code can produce different results based on its computational environment, libraries and other dependences. Join this interactive workshop to learn how to use Docker to overcome these issues and improve the reproducibility of your research.    Organised by Mian Ahmad | UCL Computer Science Technical Support Group | Wellcome / EPSRC Centre for Interventional and Surgical Sciences
