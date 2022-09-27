@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "Why have I built the website?"
+teaser: "who do I want to read it? Why do I want to build it?."
 permalink: "/about/"
 header:
     image_fullwidth: "header_drop.jpg"
