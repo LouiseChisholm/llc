@@ -1,5 +1,9 @@
-- title: "Home"
+- title: Home
   url: "/"
+  side: left
+
+- title: Facilitating Research
+  url: "/getting-started/"
   side: left
 
 - title: "Digital Research Infrastructure"
