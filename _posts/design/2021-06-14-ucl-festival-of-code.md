@@ -14,8 +14,12 @@ image:
     caption: UCL Festival of Code - Celebrating Research Software and Coding Communities
     caption_url: https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0
 ---
-The Festival of Code (14 - 19 June 2021) celebrated the contribution software and coding communities make to research and innovation. Participants learnt new skills, tools and insights, as well as developed their network across UCL. Attendees were from all faculties, MSc and PhD research students, researchers and members of professional services.  The festival's themes were: Celebrating Communities | Exploring Open Science | Creating Impact | R Project Showcase | Collaborative Hackday We would like to thank our colleagues from who have organised these events. Follow @eResearch_UCL  #UCLCodeFest. Download the flyer or programme.
-
+The Festival of Code (14 - 19 June 2021) celebrated the contribution software and coding communities make to research and innovation. Participants learnt new skills, tools and insights, as well as developed their network across UCL. Attendees were from all faculties, MSc and PhD research students, researchers and members of professional services. We would like to thank our colleagues from who have organised these events. The festival's themes: 
+* Celebrating Communities 
+* Exploring Open Science 
+* Creating Impact 
+* R Project Showcase 
+* Collaborative Hackday
 
 ## Monday 14th June: Celebrating Communities
 ### Funder panel: Challenges & opportunties of funding research software
