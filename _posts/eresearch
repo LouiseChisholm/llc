@@ -1,66 +1,25 @@
 ---
 layout: page
-#
-# Content
-#
-title: "UCL Festival of Code"
-teaser: "Celebrating Research Software and Coding Communities."
+subheadline:  "UCL Festival of Code"
+title:  "No Header"
+teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows <em>no</em> header at all. Just the navigation."
 categories:
-  - Capacity Building
+    - design
 tags:
-  - UCL eResearch
-  - Research Software
-  - Communities
-#
-# Styling
-#
+    - design
+    - background color
+    - header
 header: no
-image:
-    title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
-    caption: UCL Festival of Code logo
-    mediaplayer: false
 ---
-The Festival of Code (14 - 19 June 2021) celebrated the contribution software and coding communities make to research and innovation. Participants learnt new skills, tools and insights, as well as developed their network across UCL. Attendees were from all faculties, MSc and PhD research students, researchers and members of professional services. The festival's themes were: Celebrating Communities | Exploring Open Science | Creating Impact | R Project Showcase | Collaborative Hackday We would like to thank our colleagues from who have organised these events. Follow @eResearch_UCL  #UCLCodeFest. Download the flyer or programme.
- 
+*Silence is beautiful.* Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: *Feeling Responsive* got you covered. Just say *no* like this:
+<!--more-->
 
-{% highlight html %}
-<audio src="http://path-to-file.com/music.mp3" type="audio/mp3" controls="controls"></audio>
-{% endhighlight %}
-
-All possible functions and how to use *mediaelement.js* is well-documented on the [players website][1].
+~~~
+header: no
+~~~
 
 
+### All Header-Styles
+{: .t60 }
 
-## »Music From All Around The World«
-
-[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Phlow-Magazine.com][4]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
-
-### B-Ju - »Philly Run«
-
-<audio src="http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3" type="audio/mp3" controls="controls"></audio>
-
-### Comfort Fit - »Freeze The Cut«
-
-<audio src="http://archive.org/download/music_from_all_around_the_world/05._music_from_all_around_the_world_-_comfort_fit_-_freeze_the_cut_opolopos_emotional_draft_remix.mp3" type="audio/mp3" controls="controls"></audio>
-
-### The Black Atlantic - »Dandelion«
-
-<audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio>
-
-[Download Compilation ›](https://archive.org/details/music_from_all_around_the_world)
-{: .t30 .button .radius}
-
-
-
- [1]: http://mediaelementjs.com/
- [2]: http://jcorneille.de/
- [3]: www.creativecommons.org/licenses/by-nc-nd/3.0/
- [4]: http://phlow-magazine.com/
- [5]: https://archive.org/details/music_from_all_around_the_world
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+{% include list-posts tag='header' %}
