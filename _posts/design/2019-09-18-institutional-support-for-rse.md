@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Header With Logo Only"
-subheadline:  "Institutional Support for RSEs"
+title:  "Institutional Support for RSEs"
+subheadline:  "Career Pathways"
 teaser: "Panel discussion focused on supporting RSEs at the Science and Engineering South universities and across the UK"
 categories:
     - Career Pathways
