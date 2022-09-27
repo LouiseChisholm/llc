@@ -11,20 +11,11 @@ tags:
     - header
 header: no
 image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    title: UCL_Festival_of_Code.png
+    caption: UCL Festival of Code - Celebrating Research Software and Coding Communities
+    caption_url: https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0
 ---
-First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
-<!--more-->
-
-~~~
-header: no
-image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
+The Festival of Code (14 - 19 June 2021) celebrated the contribution software and coding communities make to research and innovation. Participants learnt new skills, tools and insights, as well as developed their network across UCL. Attendees were from all faculties, MSc and PhD research students, researchers and members of professional services.  The festival's themes were: Celebrating Communities | Exploring Open Science | Creating Impact | R Project Showcase | Collaborative Hackday We would like to thank our colleagues from who have organised these events. Follow @eResearch_UCL  #UCLCodeFest. Download the flyer or programme.
 
 
 ### All Header-Styles
