@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "UCL Community-based Initiative Scheme 2021"
+title:  "UCL Community-based Initiative Scheme 2022"
 subheadline:  "Building Capacity"
 teaser: "The UCL eresearch Domain funded community-based initiatives scheme which either contribute to the development of software and/or research data skills or good practice; foster interdisciplinary research through the reuse of tools and resources (e.g. algorithms, data and software); or strengthen positives attributes in the eResearch community."
 categories:
