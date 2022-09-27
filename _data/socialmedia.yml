@@ -12,6 +12,11 @@
   url: http://twitter.com/UK_SKARC
   class: icon-twitter
   title: "updates on the UK SKA Regional Centre"
+  
+- name: Orcihid
+  url: https://orcid.org/0000-0001-9027-2808
+  class: icon-ochid
+  title: Orchid
 
 # - name: Facebook
 #   url: http://www.facebook.com/
