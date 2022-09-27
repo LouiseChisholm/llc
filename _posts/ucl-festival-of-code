@@ -17,7 +17,11 @@ image:
 The Festival of Code (14 - 19 June 2021) celebrated the contribution software and coding communities make to research and innovation. Participants learnt new skills, tools and insights, as well as developed their network across UCL. Attendees were from all faculties, MSc and PhD research students, researchers and members of professional services.  The festival's themes were: Celebrating Communities | Exploring Open Science | Creating Impact | R Project Showcase | Collaborative Hackday We would like to thank our colleagues from who have organised these events. Follow @eResearch_UCL  #UCLCodeFest. Download the flyer or programme.
 
 
-### All Header-Styles
-{: .t60 }
+## Monday 14th June: Celebrating Communities
+### Funder panel: Challenges & opportunties of funding research software
+Software is used across research cycle. Join this panel discussion to learn about funding opportunities which support research software and funders' perspectives regarding the challenges of funding research software. Slides:
+EPSRC: [Challenges & opportunities of funding research software](https://www.ucl.ac.uk/research/sites/research/files/challenges_opportunities_of_funding_research_software.pdf) 
+Sage Publishing: [Supporting tools for Social Sciences](https://github.com/sagepublishing/sage_tools_social_science/blob/master/docs/ucl_codefest_2021.pdf) 
+Wellcome Trust: [Challenges and opportunities for funding computational research](https://zenodo.org/record/4943834#.YzNPC6TMI2x)
 
 {% include list-posts tag='header' %}
