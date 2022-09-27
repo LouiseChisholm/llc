@@ -1,14 +1,13 @@
 ---
 layout: page
-subheadline:  "Headers With Style"
-title:  "No Header but Article Image"
-teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
+title:  "UCL Festival of Code 2021"
+teaser: "Celebrating Research Software and Coding Communities."
 categories:
-    - design
+    - Building Capacity
 tags:
-    - design
-    - background color
-    - header
+    - UCL eResearch
+    - Research Software
+    - Communities
 header: no
 image:
     title: UCL_Festival_of_Code.png
