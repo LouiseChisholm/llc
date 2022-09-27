@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "Making the magic happen with research data, software & infrastructure"
-subheadline:  "Building Capacity"
+subheadline:  "Career Pathways"
 teaser: "Explore the opportunities and career pathways in research data, research software, & infrastructure"
 categories:
-    - Career Pathways
+    - Building Capacity
 tags:
     - Research Software Engineering
     - Research Computing
