@@ -9,7 +9,7 @@ tags:
     - Research Software Engineering
     - Events
     - Building Capacity
-
+---
 
 Software entrepreneurship skills enable students, researchers and academics to increase the impact of their research software by increasing its accessibility, usability and sustainability. 79 researchers, representing 10 faculties, looking to be informed and inspired.
 
