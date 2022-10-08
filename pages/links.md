@@ -45,5 +45,5 @@ Tools, tactics and methods to harness the power of people, data and technology t
 
 
 * [Nesta Building Partnerships Framework](https://www.nesta.org.uk/toolkit/building-partnerships/)
- 
+* [Funding Innovation: A practice guid](https://www.nesta.org.uk/toolkit/funding-innovation-practice-guide/) This practice guide shares the funding tools that Nesta has used to support innovation, and offers practical advice on how to make money work harder using a range of financial approaches.
 
