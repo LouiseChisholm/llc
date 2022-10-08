@@ -24,6 +24,10 @@
   - title: "Knowledge Exchange"
     url: "/knowledge-exchange/"
     
+- title: "Useful Lingk"
+  url: "/links/"
+  side: right
+    
 - title: Blog
   url: "/blog/"
   side: left
