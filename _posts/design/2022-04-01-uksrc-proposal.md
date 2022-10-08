@@ -3,7 +3,7 @@ layout: page
 title:  "UK SKA - community proposal engagement"
 teaser: "UKSRC co-creation"
 categories:
-    - Co-creation
+    - cocreation
 tags:
     - Research Software Engineering
     - Research Computing
