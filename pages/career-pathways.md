@@ -18,8 +18,6 @@ Includes X Y S
 
 
 ---
-<ul>
-    {% for post in site.tags.career pathways %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+## Career pathways activities
+{: .t60 }
+{% include list-posts tag='career pathways' %}
