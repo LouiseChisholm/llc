@@ -9,6 +9,7 @@ tags:
     - UCL eResearch
     - Research Software
     - Communities
+    - skills and good practice
 header: no
 image:
     title: UCL_Festival_of_Code.png
