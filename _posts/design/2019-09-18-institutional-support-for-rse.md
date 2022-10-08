@@ -4,10 +4,11 @@ title:  "Institutional Support for RSEs"
 subheadline:  "Career Pathways"
 teaser: "Panel discussion focused on supporting RSEs at the Science and Engineering South universities and across the UK"
 categories:
-    - Career Pathways
+    - career pathways
 tags:
     - Research Software
     - Events
+    - career pathways
 ---
 
 [Science and Engineering South](https://www.ses.ac.uk/) (SES) is a consortium of six major universities based in the South East that have an excellent history of supporting the RSE community. The RSE campaign was led from the University of Southampton, UCL developed the model for the RSE Group which has spread across the country, and all the participating universities support RSE activities.The panellists are:
