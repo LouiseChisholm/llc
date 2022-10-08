@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "UK SKA - community proposal engagement"
-subheadline:  "Career Pathways"
 teaser: "UKSRC co-creation"
 categories:
     - Co-creation
