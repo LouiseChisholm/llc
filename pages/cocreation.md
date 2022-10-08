@@ -19,3 +19,11 @@ with researchers
 - understand requirements - research ambitions 
 - understand opportunties to develop DRI / industry/ new technologies
 - understand opportunities for research from existing DRI
+
+
+
+---
+## Career pathways activities
+{: .t60 }
+{% include list-posts tag='cocreation' %}
+ 
