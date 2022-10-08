@@ -6,7 +6,7 @@ subheadline: "Bulding and strentheing new career pathways"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/career-pathways/"
-
+---
 
 # Career pathways
 
