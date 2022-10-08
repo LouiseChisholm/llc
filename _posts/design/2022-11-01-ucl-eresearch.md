@@ -12,10 +12,6 @@ tags:
     - co-creation
     - skills and good practice
 header: no
-image:
-    title: UCL_Festival_of_Code.png
-    caption: UCL Festival of Code - Celebrating Research Software and Coding Communities
-    caption_url: https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0
 ---
 
 
@@ -25,8 +21,9 @@ T
 This has evolved into the Forum.
 
 
+ 
 ---
-## Career pathways activities
+## Initiatives
 {: .t60 }
 {% include list-posts tag='UCL eResearch' %}
 
