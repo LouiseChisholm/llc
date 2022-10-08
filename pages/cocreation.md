@@ -12,3 +12,10 @@ permalink: "/cocreation/"
 
 
 Co creation is needed.
+
+with industry
+with researchers 
+
+- understand requirements - research ambitions 
+- understand opportunties to develop DRI / industry/ new technologies
+- understand opportunities for research from existing DRI
