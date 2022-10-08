@@ -9,7 +9,7 @@ tags:
     - Research Computing
     - Research Data
     - Events
-    - co-creation
+    - cocreation
 ---
 
 Working with the UK SKA Regional Centre Forum I created activities to develop the UK SRC consortium and identify the community’s priorities.  As well as the resources and support UK researchers require to fully harness the SKA’s data and generate new knowledge. 
