@@ -1,8 +1,10 @@
 ---
 layout: page
 show_meta: false
+breadcrumb: true
 title: "Career Pathways in Digital Research Infrastructure"
 subheadline: "Bulding and strentheing new career pathways"
+Teaser: Testy mcTest face
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/career-pathways/"
