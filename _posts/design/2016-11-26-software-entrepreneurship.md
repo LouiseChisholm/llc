@@ -25,3 +25,14 @@ Before the event, the attendees revealed that they are currently (or will be) de
 * Dr Jun Wang (Computer Science) co-founded MediaGamma in 2014 and is its CTO. He shared how commitment is key in developing a spinout company and the support available from UCLB.  MediaGamma was the first recipient of Proof of Concept funding from the UCL Technology Fund in 2015 and received the UCLB One-to- Watch award for 2016.   
 
 </details>
+
+<details>
+  <summary>UCL support for Software entrepreneurship</summary>
+    
+* [ARC Research Software Development](https://www.ucl.ac.uk/advanced-research-computing/expertise): Our goal is to help researchers to produce high quality research software, from the simplest scripts to complex simulations running on state-of-the-art supercomputers.
+    
+* [XIP](https://xip.uclb.com/) (pronounced zip) is UCLB's new platform for the express licensing of technologies from within UCL. It is designed to promote research, tools and inventions, making them accessible to industry and the academic community.
+    
+*  UCLB protects and commercializes IP that is owned by UCL by developing spinout companies. 
+    
+* UCL Innovation and Enterprise organises events to develop an entrepreneurial mind-set which are open to all UCL staff and students, provides business advice for developing start-up companies that are not based on IP owned by UCL (generally students), and entrepreneur challenges to help students develop their business ideas.
