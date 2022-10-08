@@ -34,6 +34,8 @@ Browse competencies, career profiles and training resources to advance your care
 * [CSCCE Community Participation Model](https://www.cscce.org/resources/cpm/)
 * One Health Tech
 * [Co-Production Collective](https://www.coproductioncollective.co.uk/)We support co-production in research, policy, and practice, in the health context and beyond. We also co-produce Co-Production Collective itself!
+* [Gov.UK Community development handbook](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook#framework-the-support-communities-need)
+
 
 
 
