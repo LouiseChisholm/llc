@@ -22,6 +22,6 @@ Capacity needed...
 
 
 ---
-## Career pathways activities
+## Initiatives
 {: .t60 }
-{% include list-posts tag='building capacity' %}
+{% include list-posts tag='skills and good practice' %}
