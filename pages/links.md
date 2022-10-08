@@ -16,7 +16,7 @@ Collection of links I refer back to.
 * ARMA
 * PRAXIS-AURIEL
 * [EBI Competency Hub](https://competency.ebi.ac.uk/): Supporting competency-based training and professional development.
-* [RItrain webinars] features leading personnel from research infrastructures talking about a specific challenge that was faced by the speaker and her or his RI, and how it was successfully overcome.  
+* [RItrain webinars](http://ritrain.eu/webinars) features leading personnel from research infrastructures talking about a specific challenge that was faced by the speaker and her or his RI, and how it was successfully overcome.  
 
 
 
