@@ -22,8 +22,9 @@ with researchers
 
 
 
+
 ---
-## Initiatives
+## initiatives
 {: .t60 }
 {% include list-posts tag='cocreation' %}
  
