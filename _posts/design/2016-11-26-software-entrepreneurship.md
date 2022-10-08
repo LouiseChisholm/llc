@@ -24,6 +24,4 @@ Before the event, the attendees revealed that they are currently (or will be) de
 
 * Dr Jun Wang (Computer Science) co-founded MediaGamma in 2014 and is its CTO. He shared how commitment is key in developing a spinout company and the support available from UCLB.  MediaGamma was the first recipient of Proof of Concept funding from the UCL Technology Fund in 2015 and received the UCLB One-to- Watch award for 2016.   
 
- 
-  ```
 </details>
