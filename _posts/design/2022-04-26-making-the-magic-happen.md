@@ -10,6 +10,7 @@ tags:
     - Research Computing
     - Research Data
     - Events
+    - Career Pathways
 ---
 
 Research projects often require technical specialists with expertise in data, software, and computing facilities to deliver, support and accelerate quality research. These specialists help to make the magic happen in research. This online event will enable you to explore the opportunities and career pathways in research data, research software, and research computing. In the morning session we will hear from leading researchers about how their research benefits from the input of RTPs and also from practitioners themselves about how they contribute to enhancing research outputs. In the afternoon session we will hear from leaders about the opportunities in their team and there will be informal networking sessions.
