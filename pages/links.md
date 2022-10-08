@@ -35,7 +35,7 @@ Browse competencies, career profiles and training resources to advance your care
 * One Health Tech
 * [Co-Production Collective](https://www.coproductioncollective.co.uk/)We support co-production in research, policy, and practice, in the health context and beyond. We also co-produce Co-Production Collective itself!
 * [Gov.UK Community development handbook](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook#framework-the-support-communities-need)
-* [Collective Intelligence Design Playbook (beta)](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/)
+* [Nesta Collective Intelligence Design Playbook (beta)](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/)
 Tools, tactics and methods to harness the power of people, data and technology to solve global challenges.
 
 
