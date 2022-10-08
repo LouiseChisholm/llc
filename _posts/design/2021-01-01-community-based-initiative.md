@@ -8,7 +8,7 @@ categories:
 tags:
     - Research Software
     - Reserch Data
-    - Co-creation
+    - skills and good practice
     - Researcher-led
 ---
 
