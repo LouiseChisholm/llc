@@ -17,7 +17,8 @@ Before the event, the attendees revealed that they are currently (or will be) de
 
 <details>
   <summary>Learn from the experience of others</summary>
-    * Prof Jonathan Tennyson (Physics and Astronomy), founded Quantemol in 2004 and is its CSO. He shared how generating income can support ongoing software maintenance and future developments, which ensures that the longevity of the software and subsequently its impact.  He also highlighted how establishing Quantemol was included in REF2014 as a case study and assisted his case for promotion to professor. 
+    
+* Prof Jonathan Tennyson (Physics and Astronomy), founded Quantemol in 2004 and is its CSO. He shared how generating income can support ongoing software maintenance and future developments, which ensures that the longevity of the software and subsequently its impact.  He also highlighted how establishing Quantemol was included in REF2014 as a case study and assisted his case for promotion to professor. 
 
 * Dr Daniel Hulme founded and is the CEO of Satalia in 2008 and is its CEO and is member of the UCL Computer Science IMPACT team. He highlighted that although research software might have many potential applications, it is necessary to identify those who value it sufficiently to pay to use it. He also mentioned the importance of networking and understanding your customers. 
 
