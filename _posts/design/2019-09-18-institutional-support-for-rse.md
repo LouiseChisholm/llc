@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Institutional Support for RSEs"
+title:  "RSECon 2019: Institutional Support for RSEs"
 subheadline:  "Career Pathways"
-teaser: "Panel discussion focused on supporting RSEs at the Science and Engineering South universities and across the UK"
+teaser: "UK RSE Conference panel discussion focused on supporting RSEs at the Science and Engineering South universities and across the UK"
 categories:
     - career pathways
 tags:
