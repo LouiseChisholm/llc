@@ -21,9 +21,4 @@ T
 This has evolved into the Forum.
 
 
- 
----
-## Initiatives
-{: .t60 }
-{% include list-posts tag='UCL eResearch' %}
-
+  
