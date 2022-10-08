@@ -1,19 +1,14 @@
 ---
 layout: page
-subheadline:  
+sidebar: left
+subheadline: Templates
 title:  "UCL eResearch Domain"
-teaser: "Shaping and devleoping UCL eResearch Ecosystem."
-categories:
-    - Building Capacity
+teaser: "Shaping and developing the UCL eResearch ecosystem"
+breadcrumb: true
 tags:
-    - UCL eResearch
-    - Research Software
-    - Communities
-    - co-creation
-    - skills and good practice
-header: no
----
-
+    - post format
+categories:
+    - design
 
 
 The UCL eResearch domain supports and advocates for the community across UCL who perform theoretical and applied research using computational and data sciences or digital technologies. We inspire and empower researchers to leverage the opportunities created by recent technological advances and the ever-increasing amounts of data. 
