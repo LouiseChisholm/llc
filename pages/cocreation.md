@@ -23,7 +23,7 @@ with researchers
 
 
 ---
-## Career pathways activities
+## Initiatives
 {: .t60 }
 {% include list-posts tag='cocreation' %}
  
