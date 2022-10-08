@@ -40,8 +40,8 @@ Tools, tactics and methods to harness the power of people, data and technology t
 
 
 
-
-
+## Funding schemes /initiatives
+* [Nesta Challenge Prizes](https://www.nesta.org.uk/toolkit/challenge-prizes-a-practice-guide/): A Practice Guide Challenge prizes inspire new and better approaches to stubborn problems.
 
 
 
