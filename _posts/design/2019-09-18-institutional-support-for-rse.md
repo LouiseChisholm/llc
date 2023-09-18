@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "RSECon 2019: Institutional Support for RSEs"
-subheadline:  "Developing Career Pathways"
+subheadline:  "Building Capacity"
 teaser: "UK RSE Conference panel discussion focused on supporting RSEs at the Science and Engineering South universities and across the UK"
 categories:
     - building capacity
