@@ -11,12 +11,13 @@ tags:
 categories:
     - programme management
 ---
-### FP7 Health Programme  
-[EUCLIDS](https://cordis.europa.eu/project/id/279185/reporting) consortium studied the genetic basis of meningococcal and other life threatening bacterial infections of childhood). The 16 partners brought together an international team of clinicians and scientists, and provided training to many young doctors and scientist across Europe and West Africa. The biobank of samples collected, and extensive genomic data will continue to be used for collaborative research for many years to come. FP7 funded the €11M.
 
-### Marie Curie Initial Training Network
-Bio-Orthogonal Chemo-Specific Ligation [(BioChemLig)](https://cordis.europa.eu/article/id/169916-bioorthogonal-chemistry-to-help-uncover-protein-functions) project trained PhD students and early career researchers and developed new, environmentally friendly and versatile chemical ligation methods. The Initial Training Network ) was led by University of Strasbourg and involved 7 other partners across the EU. FP7 funded the €3M 
+As Deputy Direcctor, leading the proejct office 
+- UK SKA Regional Centre... 
 
+As consortium manager I was responsible for XU Z for  
+- [EUCLIDS](https://cordis.europa.eu/project/id/279185/reporting) FP7 Health consortium (16 partners, €11M) studied the genetic basis of meningococcal and other life threatening bacterial infections of childhood). The international team of clinicians and scientists, and provided training to many young doctors and scientist across Europe and West Africa. The biobank of samples collected, and extensive genomic data will continue to be used for collaborative research for many years to come. 
+- Bio-Orthogonal Chemo-Specific Ligation [(BioChemLig)](https://cordis.europa.eu/article/id/169916-bioorthogonal-chemistry-to-help-uncover-protein-functions) FP7 Marie Curie Initial Training Network (7 partners, €3M). The PhD students and early career researchers developed  new, environmentally friendly and versatile chemical ligation methods.  
 ### Knowledge Transfer Partnership
 
 
